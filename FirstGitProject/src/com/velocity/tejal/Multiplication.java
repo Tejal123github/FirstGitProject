@@ -17,6 +17,9 @@ public class Multiplication
 			int mul=x*y;
 			System.out.println("Multiplication of x*y  ::  "+mul);
 			
+			int sub=x-y;
+			System.out.println("Multiplication of x*y  ::  "+sub);
+			
 			sc.close();
 	}
 }
